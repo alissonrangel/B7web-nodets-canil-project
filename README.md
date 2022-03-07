@@ -3,3 +3,5 @@
 - npm i express mustache-express dotenv
 - npm i -D @types/express @types/mustache-express @types/node
 - npm i -g nodemon typescript ts-node
+- npm i -D copyfiles
+- npm i typescript
