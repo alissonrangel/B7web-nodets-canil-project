@@ -1,7 +1,7 @@
 ## Canil Project from B7web NodeJs Course
 
-## Link Github Project
-[Github project - suporteb7web/nodets-canil](https://github.com/suporteb7web/nodets-canil)
+## Link Github Original Project
+[Github original project - suporteb7web/nodets-canil](https://github.com/suporteb7web/nodets-canil)
 
 - npm init
 - tsc --init
